@@ -8,11 +8,13 @@ body {
   font: 18px/1.4 garamond, palatino, georgia, verdana, arial, sans-serif;
   color: rgb(18,18,18);
   
-}
-
-.center {
+  .center {
   margin: auto;
   width: 50%;
   border: 3px solid green;
   padding: 10px;
 }
+  
+}
+
+
